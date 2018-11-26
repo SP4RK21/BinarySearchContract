@@ -1,5 +1,3 @@
-package Done;
-
 public class BinarySearch {
 
     // inv: x, arr - immutable
